@@ -4,7 +4,7 @@ This project showcases a set of Power BI dashboards built using the AdventureWor
 
 ## Executive Overview Dashboard
 
-*** **Purpose**
+*** **Purpose**<br>
 Provides a high-level view of overall business performance, enabling executives to quickly assess revenue, profit, total orders, and return rates in one place.
 
 *** **Key Insights**
