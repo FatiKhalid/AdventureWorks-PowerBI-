@@ -22,4 +22,4 @@ Drilling into the top-selling product (30 oz Water Bottle) shows stable revenue 
 **3. Orders by category**<br>
 Accessories account for the highest share of total orders, followed by Bikes and Clothing. This highlights where customer demand is most concentrated and where category-level planning and optimization efforts can be focused.
 
-![Orders by Category](Executives_orders_by_catergories.png)
+![Orders by Category](Executive_orders_by_categories.png)
