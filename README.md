@@ -10,3 +10,7 @@ Provides a high-level view of overall business performance, enabling executives 
 *** Key Insights
 1. The dashboard shows strong overall revenue and profit growth over time, with clear visibility into monthly trends and performance direction.
 ![Executive Overview KPIs](Executive_overview_KPIs.png)
+
+#### 2. Product performance drill-down
+Drilling into the top-selling product (30 oz Water Bottle) shows stable revenue growth, strong order volume, and a relatively low return rate, indicating a consistently strong performer within its category.
+![Product Drill Down](Executive_top_products.png)
