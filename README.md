@@ -8,6 +8,7 @@ This project showcases a set of Power BI dashboards built using the AdventureWor
 Provides a high-level view of overall business performance, enabling executives to quickly assess revenue, profit, total orders, and return rates in one place.
 
 *** Key Insights
+
 1.Executive Overview KPIs
 The dashboard shows strong overall revenue and profit growth over time, with clear visibility into monthly trends and performance direction.
 ![Executive Overview KPIs](Executive_overview_KPIs.png)
