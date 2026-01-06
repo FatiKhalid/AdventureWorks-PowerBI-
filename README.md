@@ -4,15 +4,15 @@ This project showcases a set of Power BI dashboards built using the AdventureWor
 
 ## Executive Overview Dashboard
 
-*** (_Purpose_)
+*** **Purpose**
 Provides a high-level view of overall business performance, enabling executives to quickly assess revenue, profit, total orders, and return rates in one place.
 
-*** Key Insights
+*** **Key Insights**
 
-1.Executive Overview KPIs<br>
+**1. Executive Overview KPIs**<br>
 The dashboard shows strong overall revenue and profit growth over time, with clear visibility into monthly trends and performance direction.
 ![Executive Overview KPIs](Executive_overview_KPIs.png)
 
-2. Product Performance Drill-Down<br>
+**2. Product Performance Drill-Down**<br>
 Drilling into the top-selling product (30 oz Water Bottle) shows stable revenue growth, strong order volume, and a relatively low return rate, indicating a consistently strong performer within its category.
 ![Product Drill Down](Executive_top_products.png)
