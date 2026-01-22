@@ -34,4 +34,5 @@ Analyzes customer-level performance to understand revenue per customer trends, i
 2. A small group of top customers contributes a disproportionate share of total revenue, highlighting potential revenue concentration risk.
 3. Orders are primarily driven by average-to-high income customers and professional occupations, identifying the core customer segments.
 4. Despite a large customer base (17.4K customers), average revenue per customer remains relatively low, suggesting volume-driven growth.
+ 
 ![Customer performace Dashboard](Customer_Detail_Report.png)
