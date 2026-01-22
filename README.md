@@ -23,3 +23,14 @@ Drilling into the top-selling product (30 oz Water Bottle) shows stable revenue 
 Accessories account for the highest share of total orders, followed by Bikes and Clothing. This highlights where customer demand is most concentrated and where category-level planning and optimization efforts can be focused.
 
 ![Orders by Category](Executive_orders_by_categories.png)
+
+## Customer Performance Dashboard
+
+*** **Purpose**<br>
+Analyzes customer-level performance to understand revenue per customer trends, identifies top revenue contributors, and assesses customer concentration and segmentation.
+*** **Key Insights**
+1. Revenue per customer shows a declining trend from 2020 to 2022, indicating reduced customer spending or margin pressure over time.
+2. A small group of top customers contributes a disproportionate share of total revenue, highlighting potential revenue concentration risk.
+3. Orders are primarily driven by average-to-high income customers and professional occupations, identifying the core customer segments.
+4. Despite a large customer base (17.4K customers), average revenue per customer remains relatively low, suggesting volume-driven growth.
+![Customer performace Dashboard](Customer_Detail_Report.png)
