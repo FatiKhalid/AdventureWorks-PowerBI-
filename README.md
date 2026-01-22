@@ -7,7 +7,7 @@ This project showcases a set of Power BI dashboards built using the AdventureWor
 *** **Purpose**<br>
 Provides a high-level view of overall business performance, enabling executives to quickly assess revenue, profit, total orders, and return rates in one place.
 
-*** **Key Insights**
+**Key Insights**
 
 **1. Executive Overview KPIs**<br>
 The dashboard shows strong overall revenue and profit growth over time, with clear visibility into monthly trends and performance direction.
@@ -28,6 +28,7 @@ Accessories account for the highest share of total orders, followed by Bikes and
 
 *** **Purpose**<br>
 Analyzes customer-level performance to understand revenue per customer trends, identifies top revenue contributors, and assesses customer concentration and segmentation.
+
 *** **Key Insights**
 1. Revenue per customer shows a declining trend from 2020 to 2022, indicating reduced customer spending or margin pressure over time.
 2. A small group of top customers contributes a disproportionate share of total revenue, highlighting potential revenue concentration risk.
