@@ -37,3 +37,4 @@ Analyzes customer-level performance to understand revenue per customer trends, i
 5. Customer revenue is geographically concentrated in specific regions, highlighting regional dependency and expansion opportunities.
  
 ![Customer performace Dashboard](Customer_Detail_Report.png)
+
